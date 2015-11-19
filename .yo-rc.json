@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "How To Survive to Drupal 8",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "omero",
+    "githubRepository": "git@github.com:omero/how-to-survive-d8.git"
+  }
+}
