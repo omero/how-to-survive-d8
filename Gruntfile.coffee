@@ -101,7 +101,7 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
-                    remote: 'git@github.com:omero/how-to-survive-d8.git.git'
+                    remote: 'git@github.com:omero/how-to-survive-d8.git'
                     branch: 'gh-pages'
         
 
